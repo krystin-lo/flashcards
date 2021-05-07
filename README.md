@@ -1,5 +1,5 @@
 # Flashcard Project
-The Flashcard project implements 
+The Flashcard project implements the usage of React through the uses of an API to create, read, update, and delete records stored by the API. The project manages the state of the React application, defines the routes and URLs, and uses state effectively over multiple components.
 
 # Home Page
 The home page 
@@ -11,4 +11,10 @@ The home page
 
 Fill in the name and description of the new deck you want to create
 [![Capture2.jpg](https://i.postimg.cc/13vvJgQy/Capture2.jpg)](https://postimg.cc/TKWjP31s)
-# two
+# New Deck Created
+
+# View Deck
+
+# Create New Card
+
+
